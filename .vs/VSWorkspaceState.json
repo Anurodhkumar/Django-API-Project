@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\project",
+    "\\project\\myproject",
+    "\\project\\myproject\\myproject",
+    "\\project\\myproject\\quickstart"
+  ],
+  "SelectedNode": "\\project\\myproject\\myproject\\urls.py",
+  "PreviewInSolutionExplorer": false
+}
